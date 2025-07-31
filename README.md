@@ -1,3 +1,15 @@
+**文件说明：**  
+1. 每 12 小时自动构建
+2. [**cfdomain.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/cfdomain.txt) 源采用 <https://www.wetest.vip/page/cloudflare/cname.html>，并添加 `bestcf.030101.xyz`
+3. [**cmcc.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/cmcc.txt) 源采用 <https://addressesapi.090227.xyz/cmcc>、<https://addressesapi.090227.xyz/cmcc-ipv6>、<https://stock.hostmonit.com/CloudFlareYes>（移动）、<https://stock.hostmonit.com/CloudFlareYesV6>（移动）、<https://www.wetest.vip/page/cloudflare/address_v4.html>（移动）和 <https://www.wetest.vip/page/cloudflare/address_v6.html>（移动） 组合
+4. [**ctcc.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/ctcc.txt) 源采用 <https://addressesapi.090227.xyz/ct>、<https://stock.hostmonit.com/CloudFlareYes>（电信）和 <https://stock.hostmonit.com/CloudFlareYesV6>（电信）、<https://www.wetest.vip/page/cloudflare/address_v4.html>（电信）和 <https://www.wetest.vip/page/cloudflare/address_v6.html>（电信） 组合
+5. [**cucc.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/cucc.txt) 源采用 <https://stock.hostmonit.com/CloudFlareYes>（联通）和 <https://stock.hostmonit.com/CloudFlareYesV6>（联通）、<https://www.wetest.vip/page/cloudflare/address_v4.html>（联通）和 <https://www.wetest.vip/page/cloudflare/address_v6.html>（联通） 组合
+6. [**cfip.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/cfip.txt) 源采用 <https://ip.164746.xyz> 和 <https://ipdb.api.030101.xyz/?type=bestcf> 组合
+7. [**proxyip.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/proxyip.txt)（反代优选 IP）源采用 <https://ipdb.api.030101.xyz/?type=bestproxy&country=true>
+
+<details>
+<summary>原 README</summary>
+
 # 🚀 epeius
 这是一个基于 CF Worker 平台的脚本，在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
@@ -292,3 +304,5 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 - [股神](https://t.me/CF_NAT/38889)
 - [Workers/Pages Metrics](https://t.me/zhetengsha/3382)
 - [白嫖哥](https://t.me/bestcfipas)
+
+</details>
