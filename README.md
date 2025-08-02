@@ -1,6 +1,6 @@
 **文件说明：**  
 1. 每 12 小时自动构建
-2. [**cfdomain.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/cfdomain.txt) 源采用 <https://www.wetest.vip/page/cloudflare/cname.html>，并添加 `bestcf.030101.xyz`
+2. [**cfdomain.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/cfdomain.txt) 源采用 <https://blog.cmliussss.com/p/CloudFlare%E4%BC%98%E9%80%89/> 和 <https://www.wetest.vip/page/cloudflare/cname.html> 组合，并添加 `bestcf.030101.xyz`
 3. [**cmcc.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/cmcc.txt) 源采用 <https://addressesapi.090227.xyz/cmcc>、<https://addressesapi.090227.xyz/cmcc-ipv6>、<https://stock.hostmonit.com/CloudFlareYes>（移动）、<https://stock.hostmonit.com/CloudFlareYesV6>（移动）、<https://www.wetest.vip/page/cloudflare/address_v4.html>（移动）和 <https://www.wetest.vip/page/cloudflare/address_v6.html>（移动） 组合
 4. [**ctcc.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/ctcc.txt) 源采用 <https://addressesapi.090227.xyz/ct>、<https://stock.hostmonit.com/CloudFlareYes>（电信）和 <https://stock.hostmonit.com/CloudFlareYesV6>（电信）、<https://www.wetest.vip/page/cloudflare/address_v4.html>（电信）和 <https://www.wetest.vip/page/cloudflare/address_v6.html>（电信） 组合
 5. [**cucc.txt**](https://github.com/DustinWin/freesub/releases/download/CFBest/cucc.txt) 源采用 <https://stock.hostmonit.com/CloudFlareYes>（联通）和 <https://stock.hostmonit.com/CloudFlareYesV6>（联通）、<https://www.wetest.vip/page/cloudflare/address_v4.html>（联通）和 <https://www.wetest.vip/page/cloudflare/address_v6.html>（联通） 组合
